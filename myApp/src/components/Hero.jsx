@@ -137,7 +137,7 @@ function Hero() {
 
       {/* Resources Section */}
 
-      <section className="resources-section">
+      {/* <section className="resources-section">
         <h3 className="resources-title">Resources</h3>
         <div className="resources-buttons">
           <a
@@ -210,19 +210,19 @@ function Hero() {
             <span>Collaborate with us →</span>
           </a>
         </div>
-      </section>
+      </section> */}
 
       {/* Diagram Section */}
-      <div className="diagram-placeholder">
+      {/* <div className="diagram-placeholder">
         <img src="/teaser.jpeg" alt="MOT Diagram" />
         <p style={{ textAlign: "center", color: "#888" }}>
           Comparison between traditional MOT and ours work.
         </p>
-      </div>
+      </div> */}
 
       {/* Authors Section */}
-      <div className="authors-section">
-        {/* <h3 className="section-title">Authors</h3> */}
+      {/* <div className="authors-section">
+        <h3 className="section-title">Authors</h3>
         <div className="authors-list">
           <p>
             <a href="https://zihanwang314.github.io/">Zihan Wang</a>
@@ -299,7 +299,7 @@ function Hero() {
             University &nbsp;&nbsp;
           </p>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
